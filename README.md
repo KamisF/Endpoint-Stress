@@ -28,7 +28,7 @@ Clone the repository or download the code to your machine and follow the instruc
 
 ```bash
 git clone https://github.com/KamisF/Endpoint-Stress.git
-cd monitoring-project
+cd Endpoint-Stress
 npm install
 ```
 
