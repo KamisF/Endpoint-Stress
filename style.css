@@ -1,0 +1,53 @@
+body {
+    background-color: #ffffff;
+    background-image: url('images/beautiful-milky-way-night-sky.jpg'); /* Caminho da imagem */
+    background-size: cover; /* Redimensiona a imagem para cobrir toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    height: 100vh; /* Define a altura para 100% da tela */
+    margin: 0;
+    padding: 0; 
+} 
+
+
+span {
+    font-family: "Lato";
+    font-size: 56px;
+    font-weight: 200;
+    text-align: center; /* Centraliza horizontalmente */
+    margin-top: 0%;
+    color: white;
+
+}
+header {
+    background-color: #0f555300;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+.transparent-navbar {
+
+    background-color: transparent !important; /* Remove o fundo */
+    box-shadow: none !important; /* Remove a sombra */
+    font-family: "Lato";
+    font-size: 13px;
+
+
+}
+
+.container {
+    display: flex; /* Ativa o flexbox */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 50vh; /* Define a altura da container como 100% da altura da viewport */
+    text-align: center; /* Opcional: centraliza o texto dentro do container */
+}
+
+.container2 {
+    display: flex; /* Ativa o flexbox */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 50vh; /* Define a altura da container como 100% da altura da viewport */
+    text-align: center; /* Opcional: centraliza o texto dentro do container */
+}
